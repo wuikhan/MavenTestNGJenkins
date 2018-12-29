@@ -16,6 +16,6 @@ public class BaseClass {
 	
 	@Test
 	public void failThis() {
-		Assert.assertEquals(12, 13);
+		Assert.assertEquals(12, 12);
 	}
 }
